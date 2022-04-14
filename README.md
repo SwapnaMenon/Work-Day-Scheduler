@@ -23,4 +23,5 @@ SO THAT I can manage my time effectively
 - THEN the saved events persist
 
 # Mock-Up
+![demo](./Assets/Images/05-third-party-apis-homework-demo.gif)
 

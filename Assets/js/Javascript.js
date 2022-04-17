@@ -30,9 +30,14 @@ $(".saveBtn").on("click", function(){//.on instead of add event listener//
     gettasks()
 }) 
 function gettasks(){
-    for(var i=0;i<localStorage.length;i++) {
-        var time=(localStorage.key(i))
-        var task=localStorage.getItem(time)
-        $(".description").val(task)
-    } //++ increment//
+    $("#9 .description").val(localStorage.getItem("9"))
+    $("#10 .description").val(localStorage.getItem("10"))
+    $("#11 .description").val(localStorage.getItem("11"))
+    $("#12 .description").val(localStorage.getItem("12"))
+    $("#13 .description").val(localStorage.getItem("13"))
+    $("#14 .description").val(localStorage.getItem("14"))
+    $("#15 .description").val(localStorage.getItem("15"))
+    $("#16 .description").val(localStorage.getItem("16"))
+    $("#17 .description").val(localStorage.getItem("17"))
 }
+gettasks()

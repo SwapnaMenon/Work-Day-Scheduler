@@ -1,6 +1,9 @@
-pPbody {
+
+body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
+  background-image: url("../Images/gradiant-image.png"); 
+  height: 100px;
   line-height: 1;
 }
 

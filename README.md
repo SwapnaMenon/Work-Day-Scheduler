@@ -27,10 +27,11 @@ SO THAT I can manage my time effectively
 
 # How to navigate through this Work Day Scheduler 
 
-- This is a simpple work day scheduler that goes through a general 8 hour working day, i.e. 9 am to 5 pm. As the day progresses by the hour, the time of the day will turn grey, red or green depending on whether its past, present or future respectively. Post 5 pm mark, the timeslots in the scheduler will turn grey indicating the end of a general work day. 
+- This is a simple work day scheduler that goes through a general 8 hour working day, i.e. 9 am to 5 pm. As the day progresses by the hour, the time of the day will turn grey, red or green depending on whether its past, present or future respectively. Post 5 pm mark, the timeslots in the scheduler will turn grey indicating the end of a general work day. 
 
 ![Demo](./Assets/Images/webpage-demo.png)
 
+- To add or remove a task, simply type the task in the text area beside the desired hour and click save, and to remove/delete the task, delete the text and click save for the same. 
 
 
 

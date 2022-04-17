@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 Module 5 Weekly Challenge - Work Day Scheduler 
 
- # User Story 
+# User Story 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
@@ -14,7 +14,7 @@ SO THAT I can manage my time effectively
 - THEN I am presented with time blocks for standard business hours
 - WHEN I view the time blocks for that day
 - THEN each time block is color-coded to indicate whether it is in the past, present, or
-     future
+  future
 - WHEN I click into a time block
 - THEN I can enter an event
 - WHEN I click the save button for that time block
@@ -24,4 +24,16 @@ SO THAT I can manage my time effectively
 
 # Mock-Up
 ![demo](./Assets/Images/05-third-party-apis-homework-demo.gif)
+
+# How to navigate through this Work Day Scheduler 
+
+- This is a simpple work day scheduler that goes through a general 8 hour working day, i.e. 9 am to 5 pm. As the day progresses by the hour, the time of the day will turn grey, red or green depending on whether its past, present or future respectively. Post 5 pm mark, the timeslots in the scheduler will turn grey indicating the end of a general work day. 
+
+![Demo](./Assets/Images/webpage-demo.png)
+
+
+
+
+
+
 
